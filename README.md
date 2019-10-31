@@ -4,7 +4,7 @@
 ### This is an app that simply allows you to Add, update and delete task
 
 **This app was created using**
-- Flask (Python Framwork)
+- Flask (Python Framework)
 - HTML combined with Semantic-ui (For layout formatting and styling)
 
 **This app is also deployed on Heroku**
