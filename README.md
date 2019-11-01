@@ -5,6 +5,7 @@
 
 **This app was created using**
 - Flask (Python Framework)
+- SQLAlchmey (SQLite)
 - HTML combined with Semantic-ui (For layout formatting and styling)
 
 **This app is also deployed on Heroku**
